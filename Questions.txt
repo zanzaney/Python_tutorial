@@ -1,0 +1,26 @@
+Q. What is the difference between an interpreted and a compiled language?
+A. Compiled languages are converted directly into machine code that the processor can execute.
+   Hence, they tend to be faster than interpreted languages. They also allow more control over 
+   the memory management and the CPU usage. In interpreted languages, interpreter runs through 
+   a program line by line and executes the code.
+Q. What is an interpreter?
+A. It is a computer program that directly runs the given code without compiling it in a machine 
+   language program.
+Q. Why are double quotes used in print command?
+A. They are used to print strings. Single quotes can also be used.
+Q. What are variables?
+A. They are just placeholders that store objects to a word or a name meaningful to us.
+Q. What are objects?
+A. Objects are the things you think about first in designing a program and
+   they are also the units of code that are eventually derived from the process.
+Q. What are tuples?
+A. A tuple consists of a number of values separated by commas.
+Q. What is the difference between a tuple and a list?
+A. A tuple is immutable whereas a list is mutable,i.e, values can be added, subtracted, from a 
+   list, the list can also be appended. But, a tuple stays as it was defined earlier,i.e,
+   it cannot be modified.
+Q. How are tuples and strings differentiated?
+A. The values contained by a tuple are enclosed within parehthesis (). The values 
+   contained by a list are enclosed within square brackets[].
+Q. Why don't variables have to be declared in Python?
+A. That is because Python is a dynamically typed language.
